@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537552392 source:c:\users\user\desktop\lrzerlegung\ownlrparallel2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<omp.h>
+	<time.h>
+
